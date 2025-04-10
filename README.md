@@ -1,6 +1,6 @@
 # 🧠 Spring Boot Rule Engine - Week 1 
 
-This is the **Week 1 milestone** of a Rule Evaluation Engine built using **Java**, **Spring Boot**, and **MySQL**. It is part of the **Zeotap Intern Assignment**.
+This is the **Week 1 milestone** of a Rule Evaluation Engine built using **Java**, **Spring Boot**, and **MySQL**.
 
 ## ✅ Week 1 Goals:
 - ✅ Spring Boot project setup
